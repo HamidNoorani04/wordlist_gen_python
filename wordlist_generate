@@ -34,15 +34,15 @@ base_words = [
     "amina", "khalid", "zakir", "nashit", "muhammadali", "aliyah", "suleman", "raheel",
     "hasan", "hassanah", "nour", "samira", "farah", "salma", "malik", "nabil", "yasin",
     "ibrahimah", "noor", "samir", "karim", "moeen", "bilal", "saad", "yasir", "ibraheem",
-    "rami", "rasha", "reema", "rana", "waseem", "fariha", "musa", "sami", "faizan"
+    "rami", "rasha", "reema", "rana", "waseem", "fariha", "musa", "sami", "faizan" , "raza" "savani" , "vichi" ,"gagan" , "abdullah" , "hunan" , "noorani"
 ]
 
 # Character options
 special_chars = string.digits + string.ascii_uppercase + "@"
 
 # Settings
-total_words = 100000
-output_file = "realistic_wordlist_with_muslim_names_100k.txt"
+total_words = 1000000
+output_file = "brute-force_wordlist_generator_by_hamid.txt"
 
 # Generate the wordlist
 wordlist = []
