@@ -24,7 +24,7 @@ base_words = [
     # Add your own!
     "changeme", "unknown", "guest123", "user1", "tempuser", "test123", "1234567890"
     
-    # Muslim Names (commonly used)
+    # Names (commonly used)
     "ahmed", "ali", "hassan", "hussein", "omar", "fatima", "mariam", "zainab", "sarah",
     "aminah", "layla", "muhammad", "yusuf", "ibrahim", "osman", "faisal", "zayd", "tariq",
     "amina", "khalid", "zakir", "nashit", "muhammadali", "aliyah", "suleman", "raheel",
