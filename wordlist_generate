@@ -1,7 +1,9 @@
 import random
 import string
 
+
 #word list with names added
+#you can change name as you want 
 base_words = [
     # Common passwords
     "password", "admin", "123456", "welcome", "qwerty", "abc123", "letmein", "monkey",
