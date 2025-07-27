@@ -1,5 +1,7 @@
 # 🔐 Brute-Force Wordlist Generator – By Abdul Hamid Noorani
 
+### 📧 hamidnoorani04@gmail.com 🔗 [GitHub](https://github.com/HamidNoorani04)🔗 [LinkedIn](https://linkedin.com/in/abdul-hamid-noorani-37258a351)
+
 This Python script generates a massive custom wordlist for brute-force attacks, password auditing, and red teaming. It mixes common passwords, tech terms, pet names, cultural keywords, and **custom names** with randomized digits, uppercase letters, and symbols to create millions of password-like entries.
 
 > ⚠️ **Strictly for educational and authorized security testing.**
